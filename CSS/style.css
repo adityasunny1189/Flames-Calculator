@@ -1,0 +1,16 @@
+.bottom-container {
+  height: 200px;
+  background-color: #252525;
+  padding: 50px 0 20px;
+}
+
+.social {
+  width: 2%;
+}
+
+.top-container {
+  background: url("/home/aditya/Desktop/FLAMES/images/img1.jpg");
+  background-size:cover;
+  background-position:center;
+  padding-top: 100px;
+}
